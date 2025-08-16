@@ -1,3 +1,3 @@
 # miprimerrepositorio
 Hola
-print("Houdi es mi amigo peludo:)")
+Houdi es mi amigo peludo
