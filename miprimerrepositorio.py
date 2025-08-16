@@ -8,3 +8,4 @@ print(f"Suma: {suma}")
 print(f"Resta: {resta}")
 
 #calculadora solo suma y resta
+#que
